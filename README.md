@@ -4,4 +4,4 @@
   </a>
 </div>
 
-- 👋 Hi, I’m @leanne-moore I'm a college student studying cybersecurity. My favorite color is purple and choclate is my favorite flavour of ice cream. 
+- 👋 Hi, I’m @leanne-moore I'm a college student studying cybersecurity. My favorite color is purple and chocolate is my favorite flavour of ice cream. 
